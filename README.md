@@ -1,6 +1,6 @@
 # Vislice1
 
 
-Borut Pahor
+Borut
 Andrej Bauer
 Marko Kandič
