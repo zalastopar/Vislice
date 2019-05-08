@@ -1,6 +1,6 @@
 # Vislice1
 
 
-Marjan Šarec
+Borut Pahor
 Andrej Bauer
 Marko Kandič
