@@ -1,6 +1,6 @@
 # Vislice1
 
 
-Jurij Vega 
+Marjan Šarec
 Andrej Bauer
 Marko Kandič
