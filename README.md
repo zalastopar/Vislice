@@ -1,6 +1,6 @@
 # Vislice1
 
 
-Jurij Vega 
+Borut Pahor
 Andrej Bauer
 Marko Kandič
